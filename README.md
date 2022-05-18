@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oliveiramaria14
-- 👀 I’m interested in  aprender a programar novas linguagens.
-- 🌱    Eu estouaprendendo recentemente a linguagem JavaScript e Scratch        
-- 📫 How to reach me  maria.nigueira.oliveira14@escola.pr.gov.pr.
+- 👋 _Oi, eu sou @oliveiramaria14_
+- 👀 _Eu tenho interesse em aprender a programar novas linguagens._
+- 🌱 _Eu estouaprendendo recentemente a linguagem JavaScript e Scratch_        
+- 📫 _Meu email de contato [e-mail](maria.nogueira.oliveira14@escola.pr.gov.br)_
